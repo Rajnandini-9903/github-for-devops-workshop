@@ -1,4 +1,7 @@
-  1 try { . "c:\Users\Raj Nandini Gupta\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {} 
+
+  Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\Raj Nandini Gupta\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {} 
    2 python testing.py
    3 testing.py
    4 python testing.py
@@ -25,3 +28,30 @@
   25 git status
   26 git restore testing.py
   27 git status
+  28 history
+  29 git status
+  30 git add git_command
+  31 git add git_command.txt
+  32 git status
+  33 git commit -m "added git command"
+  34 git status
+  35 git remote add origin https://github.com/Rajnandini-9903/github-for-devops-workshop.git
+  36 git remote -v
+  37 git remote set-url origin https://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@github.com/Rajnandini-9903/github-for-devops-workshop.git
+  38 git remote -v
+  39 git push origin master
+  40 git status
+  41 git add mycode.txt
+  42 git commit -m "my code"
+  43 git status
+  44 git remote add origin https://github.com/Rajnandini-9903/github-for-devops-workshop.git
+  45 git push origin master
+  46 git status
+  47 git add mycode1.txt
+  48 git commit -m "mycode1"
+  49 git status
+  50 git remote add origin https://github.com/Rajnandini-9903/mynew-repo.git
+  51 git remote origin https://github.com/Rajnandini-9903/mynew-repo.git
+  52 git push -u origin master
+  53 git push origin master
+  54 git remote add origin https://github.com/Rajnandini-9903/mynew-repo.git
