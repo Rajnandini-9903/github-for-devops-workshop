@@ -1,7 +1,7 @@
 
   Id CommandLine
   -- -----------
-   1 try { . "c:\Users\Raj Nandini Gupta\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {} 
+   
    2 python testing.py
    3 testing.py
    4 python testing.py
@@ -48,8 +48,7 @@
   47 git add mycode1.txt
   48 git commit -m "mycode1"
   49 git status
-  50 git remote add origin https://github.com/Rajnandini-9903/mynew-repo.git
-  51 git remote origin https://github.com/Rajnandini-9903/mynew-repo.git
+
   52 git push -u origin master
   53 git push origin master
-  54 git remote add origin https://github.com/Rajnandini-9903/mynew-repo.git
+  
