@@ -21,8 +21,7 @@
   18 git status
   19 git commit -m "added testing file"
   20 git commit -m "added testing file"
-  21 git config --global user.email "rajnandinigupta88@gmail.com"
-  22 git config --global user.name "Rajnandini9903"
+
   23 git commit -m "added testing file"
   24 rm testing.py
   25 git status
@@ -35,16 +34,15 @@
   32 git status
   33 git commit -m "added git command"
   34 git status
-  35 git remote add origin https://github.com/Rajnandini-9903/github-for-devops-workshop.git
+  
   36 git remote -v
-  37 git remote set-url origin https://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@github.com/Rajnandini-9903/github-for-devops-workshop.git
   38 git remote -v
   39 git push origin master
   40 git status
   41 git add mycode.txt
   42 git commit -m "my code"
   43 git status
-  44 git remote add origin https://github.com/Rajnandini-9903/github-for-devops-workshop.git
+  
   45 git push origin master
   46 git status
   47 git add mycode1.txt
